@@ -1,0 +1,5 @@
+C:\Users\tricu\OneDrive\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.csproj.AssemblyReference.cache
+C:\Users\tricu\OneDrive\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tricu\OneDrive\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfoInputs.cache
+C:\Users\tricu\OneDrive\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.AssemblyInfo.cs
+C:\Users\tricu\OneDrive\Desktop\repos\Syntax-and-Syntax-Sugar-Exercise\SyntaxAndSyntaxSugarExercise\obj\Debug\net6.0\SyntaxAndSyntaxSugarExercise.csproj.CoreCompileInputs.cache
